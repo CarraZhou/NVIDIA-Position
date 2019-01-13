@@ -1,14 +1,14 @@
 # Senior GPU Graphics Architect #
 
 ## What you’ll be doing: ##
-•	Investigate and study state-of-the-art real-time rendering techniques and their implementation on GPU, to find performance issues and propose architectural ideas to improve GPU’s performance.
-•	Investigate and study state-of-the-art 3D game engines and their support on GPU, to find performance issues and propose architectural ideas to improve GPU’s performance.
-•	Study D3D12, DX Machine Learning, DX Ray Tracing and Vulkan APIs and their impact to GPU, to propose architectural ideas to improve GPU’s performance.
-•	Investigate and propose GPU graphics architectural ideas to improve performance based on quantitative study of existing and projected architectures.
-•	Develop 3D micro-benchmarks applications to study GPU’s performance and propose performance improvement ideas.
-•	Develop performance simulation models and simulation infrastructure.
-•	Develop performance test plan and tests for new graphics units and architectural features.
-•	Debug and triage perf tests on various performance models to identify performance bottlenecks and propose performance improvement ideas.
+- Investigate and study state-of-the-art real-time rendering techniques and their implementation on GPU, to find performance issues and propose architectural ideas to improve GPU’s performance.
+- Investigate and study state-of-the-art 3D game engines and their support on GPU, to find performance issues and propose architectural ideas to improve GPU’s performance.
+- Study D3D12, DX Machine Learning, DX Ray Tracing and Vulkan APIs and their impact to GPU, to propose architectural ideas to improve GPU’s performance.
+- Investigate and propose GPU graphics architectural ideas to improve performance based on quantitative study of existing and projected architectures.
+- Develop 3D micro-benchmarks applications to study GPU’s performance and propose performance improvement ideas.
+- Develop performance simulation models and simulation infrastructure.
+- Develop performance test plan and tests for new graphics units and architectural features.
+- Debug and triage perf tests on various performance models to identify performance bottlenecks and propose performance improvement ideas.
 
 ## What we need to see: ##
 •	Proven knowledge of computer science, with the focus on computer graphics and/or computer architecture.
