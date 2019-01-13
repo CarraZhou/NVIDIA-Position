@@ -1,4 +1,4 @@
-# Senior GPU Graphics Architect #
+# [Senior GPU Graphics Architect](https://github.com/CarraZhou/NVIDIA-Position/blob/master/NVIDIA-Positions.md) # #### (点标题返回) ####
 
 ## What you’ll be doing: ##
 - Investigate and study state-of-the-art real-time rendering techniques and their implementation on GPU, to find performance issues and propose architectural ideas to improve GPU’s performance.
@@ -11,14 +11,15 @@
 - Debug and triage perf tests on various performance models to identify performance bottlenecks and propose performance improvement ideas.
 
 ## What we need to see: ##
-•	Proven knowledge of computer science, with the focus on computer graphics and/or computer architecture.
-•	Deep understanding of GPU concept and pipeline, in terms of graphics processing and parallel computing.
-•	Good mastery of C++ language and at least 5 years of C/C++ development experience.
-•	BSEE, BSCSE, or equivalent required. MS or PhD is a good plus.
+- Proven knowledge of computer science, with the focus on computer graphics and/or computer architecture.
+- Deep understanding of GPU concept and pipeline, in terms of graphics processing and parallel computing.
+- Good mastery of C++ language and at least 5 years of C/C++ development experience.
+- BSEE, BSCSE, or equivalent required. MS or PhD is a good plus.
 
 ## Ways to stand out from the crowd: ##
-•	Good understanding of state-of-the-art rendering techniques and their usage of GPU.
-•	Experience of D3D12 and Vulkan.
-•	Experience of performance modelling, profiling and analysis.
-•	Candidates with experience of GPU graphics unit design and/or RTL module development are preferred.
+- Good understanding of state-of-the-art rendering techniques and their usage of GPU.
+- Experience of D3D12 and Vulkan.
+- Experience of performance modelling, profiling and analysis.
+- Candidates with experience of GPU graphics unit design and/or RTL module development are preferred.
+
 NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most brilliant and talented people on the planet working for us. If you're creative and autonomous, we want to hear from you!
