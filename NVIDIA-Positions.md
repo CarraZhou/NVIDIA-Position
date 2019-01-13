@@ -35,3 +35,6 @@
 [Data Scientist-NLP](https://github.com/CarraZhou/NVIDIA-Position/blob/master/Sr%20Data%20Scientist%20-%20NLP.md)
 
 [Data Analysis and Visualization](https://github.com/CarraZhou/NVIDIA-Position/blob/master/Sr%20Data%20Visualization%20and%20Analyst.md)
+
+
+![avatar](https://github.com/CarraZhou/NVIDIA-Position/blob/master/NVIDIA%E8%81%8C%E4%BD%8D%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
