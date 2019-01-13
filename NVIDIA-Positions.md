@@ -24,7 +24,7 @@
 
 [Senior CUDA Automation Triage Software Quality Assurance Engineer](https://github.com/CarraZhou/NVIDIA-Position/blob/master/Senior%20CUDA%20Automation%20Triage%20Software%20Quality%20Assurance%20Engineer.md)
 
-[Software Quality Assurance Engineer CUDA Test Development Engineer](https://github.com/CarraZhou/NVIDIA-Position/blob/master/CUDA%20Test%20Development%20Enginner.md)
+[Senior CUDA Test Development Engineer](https://github.com/CarraZhou/NVIDIA-Position/blob/master/CUDA%20Test%20Development%20Enginner.md)
 
 # 硬件类职位 #
 
