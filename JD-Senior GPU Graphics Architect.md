@@ -1,4 +1,5 @@
-# [Senior GPU Graphics Architect](https://github.com/CarraZhou/NVIDIA-Position/blob/master/NVIDIA-Positions.md) # #### (点标题返回) ####
+# [Senior GPU Graphics Architect](https://github.com/CarraZhou/NVIDIA-Position/blob/master/NVIDIA-Positions.md) # 
+(点标题返回)
 
 ## What you’ll be doing: ##
 - Investigate and study state-of-the-art real-time rendering techniques and their implementation on GPU, to find performance issues and propose architectural ideas to improve GPU’s performance.
