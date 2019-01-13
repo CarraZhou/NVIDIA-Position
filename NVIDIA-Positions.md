@@ -1,7 +1,11 @@
 
 
 # GPU开发类职位 #
-<br/>[JD-Senior GPU Graphics Architect](https://github.com/CarraZhou/NVIDIA-Position/blob/master/JD-Senior%20GPU%20Graphics%20Architect "JD-Senior GPU Graphics Architect")</br>
+
+Senior GPU Graphics Architect[https://github.com/CarraZhou/NVIDIA-Position/blob/master/JD-Senior%20GPU%20Graphics%20Architect](https://github.com/CarraZhou/NVIDIA-Position/blob/master/JD-Senior%20GPU%20Graphics%20Architect)
+GPU Profiling Engineer
+Senior GPU Kernel Profiling Engineer
+System Software Engineer
 <br/>[JD-GPU Profiling Engineer](https://github.com/CarraZhou/NVIDIA-Position/blob/master/JD-GPU%20Profiling%20Engineer "JD-GPU Profiling Engineer")</br>
 <br/>[JD-Senior GPU Kernel Profiling Engineer](https://github.com/CarraZhou/NVIDIA-Position/blob/master/JD-Senior%20GPU%20Kernel%20Profiling%20Engineer "JD-Senior GPU Kernel Profiling Engineer")</br>
 System Software Engineer
