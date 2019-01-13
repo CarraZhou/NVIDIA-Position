@@ -1,3 +1,5 @@
+欢迎联系Carra Zhou，邮箱：carraz@nvidia.com ，可以关注底部微信公众号，定时职位更新！
+
 # GPU开发类职位 #
 
 [Senior GPU Graphics Architect](https://github.com/CarraZhou/NVIDIA-Position/blob/master/Senior%20GPU%20Graphics%20Architect.md)
